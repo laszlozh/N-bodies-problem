@@ -1,0 +1,4 @@
+﻿  NBodyProblem.cpp
+D:\НГУ\НГУ\Лабораторные универ\параллельное программирование\NBodyProblem\NBodyProblem\NBodyProblem.cpp(43,66): warning C4307: "*": переполнение целой константы со знаком
+D:\НГУ\НГУ\Лабораторные универ\параллельное программирование\NBodyProblem\NBodyProblem\NBodyProblem.cpp(44,66): warning C4307: "*": переполнение целой константы со знаком
+  NBodyProblem.vcxproj -> D:\НГУ\НГУ\Лабораторные универ\параллельное программирование\NBodyProblem\x64\Debug\NBodyProblem.exe
